@@ -1,5 +1,5 @@
 # JianshuArticles
-命令行执行 scrapy crawl JSSpider
+命令行执行 scrapy crawl JSSpider -o js.xml
 
 运用Scrapy抓取简书最新人气文章
 
